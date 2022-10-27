@@ -1,5 +1,5 @@
 def CONTAINER_NAME="1stproject_repo"
-def CONTAINER_TAG="latest"
+def CONTAINER_TAG="v2"
 def DOCKER_HUB_USER="bharathrajdumpala"
 def HTTP_PORT="8090"
 
